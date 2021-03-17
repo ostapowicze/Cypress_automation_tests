@@ -3,7 +3,7 @@
 An example project using the automation tool - Cypress. These tests are quite basic but are intended to provide examples of common actions needed durning website testing. 
 The project will be gradually expanded and improved.
 
-# Technologies
+## Technologies
 JavaScript
 
 # Requires
